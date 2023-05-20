@@ -117,11 +117,12 @@ form {
 
   .section-two {
     margin-top: 20px;
+    background-image: url(./img/main_sec.png); 
+    background-size: 100%;
+    height: 70vh;
   }
 
-  .section-two img{
-    height: 10%;
-  }
+ 
 
 
  
