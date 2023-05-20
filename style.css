@@ -14,12 +14,7 @@ body{
   
 }
 
-header {
-    position:fixed;
-    width: 100%;
-    
- 
-}
+
 
 nav .img-logo{
 width: 15%;
@@ -109,5 +104,24 @@ form {
     height: 1px;
     background-color: #dddddd;  /* Modern Browsers */
   }
+
+  .nav-list ul {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nav-list li {
+    text-decoration: none;
+    list-style: none;
+  }
+
+  .section-two {
+    margin-top: 20px;
+  }
+
+  .section-two img{
+    height: 10%;
+  }
+
 
  
